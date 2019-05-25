@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="97857" started-at="2019-04-23T07:35:59Z" finished-at="2019-04-23T07:37:37Z">
+    <groups>
+    </groups>
+    <test name="reg1" duration-ms="97857" started-at="2019-04-23T07:35:59Z" finished-at="2019-04-23T07:37:37Z">
+      <class name="ant.testng.ClassTwo">
+        <test-method status="PASS" signature="oneTest()[pri:0, instance:ant.testng.ClassTwo@3ecf72fd]" name="oneTest" duration-ms="35862" started-at="2019-04-23T07:36:33Z" finished-at="2019-04-23T07:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneTest -->
+      </class> <!-- ant.testng.ClassTwo -->
+      <class name="ant.testng.ClassThree">
+        <test-method status="PASS" signature="oneTest()[pri:0, instance:ant.testng.ClassThree@483bf400]" name="oneTest" duration-ms="9714" started-at="2019-04-23T07:37:09Z" finished-at="2019-04-23T07:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneTest -->
+      </class> <!-- ant.testng.ClassThree -->
+      <class name="ant.testng.ClassFour">
+        <test-method status="PASS" signature="oneTest()[pri:0, instance:ant.testng.ClassFour@21a06946]" name="oneTest" duration-ms="18744" started-at="2019-04-23T07:37:18Z" finished-at="2019-04-23T07:37:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneTest -->
+      </class> <!-- ant.testng.ClassFour -->
+      <class name="ant.testng.ClassOne">
+        <test-method status="PASS" signature="oneTest()[pri:0, instance:ant.testng.ClassOne@f5f2bb7]" name="oneTest" duration-ms="33497" started-at="2019-04-23T07:35:59Z" finished-at="2019-04-23T07:36:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneTest -->
+      </class> <!-- ant.testng.ClassOne -->
+    </test> <!-- reg1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

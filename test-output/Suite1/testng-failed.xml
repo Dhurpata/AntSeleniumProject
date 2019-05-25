@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test thread-count="5" name="reg1(failed)">
+    <classes>
+      <class name="ant.testng.ClassTwo">
+        <methods>
+          <include name="oneTest"/>
+        </methods>
+      </class> <!-- ant.testng.ClassTwo -->
+      <class name="ant.testng.ClassFour">
+        <methods>
+          <include name="oneTest"/>
+        </methods>
+      </class> <!-- ant.testng.ClassFour -->
+    </classes>
+  </test> <!-- reg1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

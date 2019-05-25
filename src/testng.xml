@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1" >
+  <test name="reg1" >
+    <classes>
+       <class name="ant.testng.ClassOne" />
+       <class name="ant.testng.ClassTwo" />
+       <class name="ant.testng.ClassThree" />
+       <class name="ant.testng.ClassFour" />
+     </classes>
+  </test>
+</suite>
